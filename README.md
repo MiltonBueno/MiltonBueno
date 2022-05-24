@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MiltonBueno
 - 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on projects of flutter and java
 - 📫 How to reach me - miltonjunior17@gmail.com
 
