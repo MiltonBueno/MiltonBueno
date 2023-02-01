@@ -6,10 +6,10 @@
 - 👨‍💻 Some concepts and technologies I like to use in my projects - Clean Code | Bloc | Streams | Animations | API RESTful | http requests | SharedPreferences | etc...
 
 <a href="https://github.com/MiltonBueno/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiltonBueno&count_private=true&hide=contribs&show_icons=true&theme=github_dark&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiltonBueno&count_private=true&hide=contribs&show_icons=true&theme=default&bg_color=45,A1C0DC,B19CD9" />
 </a>
 <a href="https://github.com/MiltonBueno/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonBueno&layout=compact&theme=github_dark&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonBueno&layout=compact&theme=default&bg_color=45,B19CD9,A1C0DC" />
 </a>
 
 ##
