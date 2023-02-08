@@ -12,20 +12,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonBueno&layout=compact&theme=default&bg_color=45,B19CD9,A1C0DC" />
 </a>
 
-<a href="https://github.com/MiltonBueno/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiltonBueno&count_private=true&hide=contribs&show_icons=true&theme=radical#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/MiltonBueno/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonBueno&layout=compact&theme=radical#gh-dark-mode-only" />
-</a>
-
-<a href="https://github.com/MiltonBueno/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiltonBueno&count_private=true&hide=contribs&show_icons=true&theme=merko#gh-light-mode-only" />
-</a>
-<a href="https://github.com/MiltonBueno/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonBueno&layout=compact&theme=merko#gh-light-mode-only" />
-</a>
-
 ##
 
 <div>
