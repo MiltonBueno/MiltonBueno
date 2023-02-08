@@ -5,27 +5,6 @@
 - 📚 Willing to learn even more
 - 👨‍💻 Some concepts and technologies I like to use in my projects - Clean Code | Bloc | Streams | Animations | API RESTful | http requests | SharedPreferences | etc...
 
-bg_color=45,C9D7FA,EBDBFD
-bg_color=45,A1C0DC,B19CD9
-
-<a href="https://github.com/MiltonBueno/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiltonBueno&count_private=true&hide=contribs&show_icons=true&theme=default&bg_color=45,C9D7FA,EBDBFD" />
-</a>
-<a href="https://github.com/MiltonBueno/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonBueno&layout=compact&theme=default&bg_color=45,C9D7FA,EBDBFD" />
-</a>
-
-##
-
-<a href="https://github.com/MiltonBueno/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiltonBueno&count_private=true&hide=contribs&show_icons=true&theme=graywhite" />
-</a>
-<a href="https://github.com/MiltonBueno/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonBueno&layout=compact&theme=graywhite" />
-</a>
-
-##
-
 <a href="https://github.com/MiltonBueno/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiltonBueno&count_private=true&hide=contribs&show_icons=true&theme=transparent" />
 </a>
@@ -46,4 +25,15 @@ bg_color=45,A1C0DC,B19CD9
 <!---
 MiltonBueno/MiltonBueno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+bg_color=45,C9D7FA,EBDBFD
+bg_color=45,A1C0DC,B19CD9
+
+<a href="https://github.com/MiltonBueno/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiltonBueno&count_private=true&hide=contribs&show_icons=true&theme=default&bg_color=45,C9D7FA,EBDBFD" />
+</a>
+<a href="https://github.com/MiltonBueno/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonBueno&layout=compact&theme=default&bg_color=45,C9D7FA,EBDBFD" />
+</a>
+
 --->
