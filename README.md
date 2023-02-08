@@ -14,6 +14,33 @@
 
 ##
 
+<a href="https://github.com/MiltonBueno/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiltonBueno&count_private=true&hide=contribs&show_icons=true&theme=graywhite" />
+</a>
+<a href="https://github.com/MiltonBueno/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonBueno&layout=compact&theme=graywhite" />
+</a>
+
+##
+
+<a href="https://github.com/MiltonBueno/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiltonBueno&count_private=true&hide=contribs&show_icons=true&theme=graywhite&bg_color=00000000" />
+</a>
+<a href="https://github.com/MiltonBueno/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonBueno&layout=compact&theme=graywhite&bg_color=00000000" />
+</a>
+
+##
+
+<a href="https://github.com/MiltonBueno/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiltonBueno&count_private=true&hide=contribs&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/MiltonBueno/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonBueno&layout=compact&theme=transparent" />
+</a>
+
+##
+
 <div>
   <a href="https://github.com/MiltonBueno" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://stackoverflow.com/users/16593992/milton-bueno" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
