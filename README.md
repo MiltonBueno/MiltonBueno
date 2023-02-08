@@ -5,11 +5,14 @@
 - 📚 Willing to learn even more
 - 👨‍💻 Some concepts and technologies I like to use in my projects - Clean Code | Bloc | Streams | Animations | API RESTful | http requests | SharedPreferences | etc...
 
+bg_color=45,C9D7FA,EBDBFD
+bg_color=45,A1C0DC,B19CD9
+
 <a href="https://github.com/MiltonBueno/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiltonBueno&count_private=true&hide=contribs&show_icons=true&theme=default&bg_color=45,A1C0DC,B19CD9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiltonBueno&count_private=true&hide=contribs&show_icons=true&theme=default&bg_color=45,C9D7FA,EBDBFD" />
 </a>
 <a href="https://github.com/MiltonBueno/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonBueno&layout=compact&theme=default&bg_color=45,B19CD9,A1C0DC" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonBueno&layout=compact&theme=default&bg_color=45,C9D7FA,EBDBFD" />
 </a>
 
 ##
@@ -19,15 +22,6 @@
 </a>
 <a href="https://github.com/MiltonBueno/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonBueno&layout=compact&theme=graywhite" />
-</a>
-
-##
-
-<a href="https://github.com/MiltonBueno/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiltonBueno&count_private=true&hide=contribs&show_icons=true&theme=graywhite&bg_color=00000000" />
-</a>
-<a href="https://github.com/MiltonBueno/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonBueno&layout=compact&theme=graywhite&bg_color=00000000" />
 </a>
 
 ##
