@@ -3,8 +3,8 @@
 - 👀 Interested in mobile app development
 - 💻 Currently developing with flutter
 - 📚 Willing to learn even more
-- 👨‍💻 Some concepts and technologies I like to use in my projects - Clean Code | Bloc | Streams | Animations | API RESTful | http requests | SharedPreferences | etc...
-
+- 👨‍💻 Here are some concepts and technologies I enjoy using in my projects: Clean Code, Bloc, Streams, Animations, RESTful APIs, HTTP requests, SharedPreferences, and more.
+  
 <a href="https://github.com/MiltonBueno/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiltonBueno&count_private=true&hide=contribs&show_icons=true&theme=transparent" />
 </a>
